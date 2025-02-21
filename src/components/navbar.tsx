@@ -70,7 +70,7 @@ export const Navbar = () => {
               rightIcon={TiLocationArrow}
               containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
             >
-              Products
+              THAM GIA NGAY
             </Button>
           </div>
 
@@ -119,7 +119,7 @@ export const Navbar = () => {
                 className="transition hover:opacity-75"
                 title="Source Code"
               >
-                <FaGithub className="size-5 text-white" />
+               
               </a>
             </div>
           </div>

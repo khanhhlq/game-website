@@ -139,18 +139,18 @@ export const Hero = () => {
         </div>
 
         <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75">
-          G<b>a</b>ming
+          T<b>H</b>PT TRAN PHU
         </h1>
 
         <div className="absolute left-0 top-0 z-40 size-full">
           <div className="mt-24 px-5 sm:px-10">
             <h1 className="special-font hero-heading text-blue-100">
-              Redefi<b>n</b>ed
+              CLB ESPO<b>R</b>TS
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br />
-              Unleash the Play Economy
+              Một CLB lớn nhất trường có  <br />
+              sự tham gia đông đảo từ học sinh
             </p>
 
             <Button
@@ -158,14 +158,14 @@ export const Hero = () => {
               leftIcon={TiLocationArrow}
               containerClass="bg-yellow-300 flex-center gap-1"
             >
-              Watch Trailer
+              Tham gia ngay
             </Button>
           </div>
         </div>
       </div>
 
       <h1 className="special-font hero-heading absolute bottom-5 right-5 text-black">
-        G<b>a</b>ming
+        T<b>H</b>PT TRAN PHU
       </h1>
     </section>
   );

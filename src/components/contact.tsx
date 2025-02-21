@@ -1,3 +1,4 @@
+import { BiFontFamily } from "react-icons/bi";
 import { Button } from "./button";
 
 interface ImageClipBoxProps {
@@ -45,14 +46,13 @@ export const Contact = () => {
         </div>
 
         <div className="flex flex-col items-center text-center">
-          <p className="font-general text-[10px] uppercase">Join Zentry</p>
+          <p className="font-general text-[10px] uppercase">VẬY BẠN ĐÃ SẴN SÀNG THAM GIA CHƯA?</p>
 
-          <p className="special-font mt-10 w-full font-zentry text-5xl leading-[0.9] md:text-[6rem]">
-            Let&apos;s b<b>u</b>ild the
-            <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether
+          <p className=" mt-10 w-full font-zentry text-5xl leading-[0.9] md:text-[6rem]">
+            CLB ESPORTS THPT TRAN PHU
           </p>
 
-          <Button containerClass="mt-10 cursor-pointer">Contact Us</Button>
+          <Button containerClass="mt-10 cursor-pointer">THAM GIA NGAY</Button>
         </div>
       </div>
     </section>

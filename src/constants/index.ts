@@ -1,15 +1,15 @@
 import { FaDiscord, FaTwitch, FaTwitter, FaYoutube } from "react-icons/fa";
 
 export const NAV_ITEMS = [
-  { label: "TRAILER", href: "#hero" },
-  { label: "About", href: "#about" },
-  { label: "Nexus", href: "#nexus" },
-  { label: "Story", href: "#story" },
-  { label: "Contact", href: "#contact" },
+  { label: "GIỚI THIỆU", href: "#hero" },
+  { label: "THÔNG TIN", href: "#about" },
+  { label: "HÌNH ẢNH", href: "#nexus" },
+  { label: "HOẠT ĐỘNG", href: "#story" },
+  { label: "LIÊN HỆ", href: "#contact" },
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/game-website",
+  sourceCode: "",
 } as const;
 
 export const SOCIAL_LINKS = [
