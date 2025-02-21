@@ -1,4 +1,3 @@
-import { BiFontFamily } from "react-icons/bi";
 import { Button } from "./button";
 
 interface ImageClipBoxProps {
